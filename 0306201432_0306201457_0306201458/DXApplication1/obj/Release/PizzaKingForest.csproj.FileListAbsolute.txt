@@ -1,0 +1,198 @@
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.exe.config
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.exe
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.pdb
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Bàn_ăn.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmMain.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmLogin.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Đơn_hàng.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.exe.licenses
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.exe
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.pdb
+E:\Students\C#\Projects\DXApplication1\bin\Release\DXApplication1.exe.config
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb
+E:\Students\C#\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.dll
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.dll
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.dll
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.dll
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.dll
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.pdb
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.pdb
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.xml
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.xml
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.pdb
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.dll
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.dll
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.dll
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.dll
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.xml
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.pdb
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+C:\Users\Dang Khoa\Downloads\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.dll
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.dll
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.dll
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.dll
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.dll
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.pdb
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.pdb
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.xml
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.xml
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.pdb
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+D:\Năm 2\HK4\ĐA Windows\Mainmau\Main\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.dll
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.dll
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.dll
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.dll
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.dll
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.pdb
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.pdb
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.xml
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.xml
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.pdb
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\RdlCompile.cache
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\RdlCompile.compiled
+D:\Năm 2\HK4\ĐA Windows\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmXemBaoCaoTK.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe.config
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.exe
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DXApplication1.pdb
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.dll
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.dll
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.dll
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.dll
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.dll
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\BUS.pdb
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DTO.pdb
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.xml
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\EntityFramework.SqlServer.xml
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\bin\Release\DAO.pdb
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csprojResolveAssemblyReference.cache
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmBaoCaoThongKe.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmHoaDon.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmKhuyenMai.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmLoaiSP.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmNhanVien.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmSanPham.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTaiKhoan.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemNhanVien.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmThemSanPham.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmTrangChu.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmXemBaoCaoTK.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDangNhap.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.frmDonHang.resources
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\PizzaKingForest.csproj.GenerateResource.Cache
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe.licenses
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\RdlCompile.cache
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\RdlCompile.compiled
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.exe
+E:\DO_AN\0306201432_0306201457_0306201458\DXApplication1\obj\Release\DXApplication1.pdb

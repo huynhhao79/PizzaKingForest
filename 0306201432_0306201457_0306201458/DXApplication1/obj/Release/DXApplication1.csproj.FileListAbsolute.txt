@@ -1,0 +1,25 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\bin\Release\DXApplication1.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.frmMain.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.frmLogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.exe.licenses
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\bin\Release\DXApplication1.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\bin\Release\DXApplication1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DXApplication1\obj\Release\DXApplication1.Bàn_ăn.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.exe.config
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Bàn_ăn.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmMain.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Properties.Resources.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.frmLogin.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.Đơn_hàng.resources
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.exe.licenses
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.exe
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\bin\Release\DXApplication1.pdb
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.exe
+C:\Users\SunFlower\Downloads\Projects\Projects\DXApplication1\obj\Release\DXApplication1.pdb

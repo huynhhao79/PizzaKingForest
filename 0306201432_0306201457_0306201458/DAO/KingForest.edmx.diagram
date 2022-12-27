@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7b072c2728dc4e87a4b66e3f6850a586" Name="Diagram1" ZoomLevel="101">
+        <EntityTypeShape EntityType="KingForestModel.CT_HOADON" Width="2.75" PointX="5.625" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.HOADON" Width="1.5" PointX="5.125" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.KHUYENMAI" Width="1.5" PointX="8.125" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.LOAISANPHAM" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.NHANVIEN" Width="1.875" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.SANPHAM" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="KingForestModel.TAIKHOAN" Width="1.5" PointX="3.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="KingForestModel.FK1_HOADON" ManuallyRouted="false" />
+        <AssociationConnector Association="KingForestModel.FK1_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="KingForestModel.FK1_TAIKHOAN" ManuallyRouted="false" />
+        <AssociationConnector Association="KingForestModel.FK1_CT_HOADON" />
+        <AssociationConnector Association="KingForestModel.FK2_CT_HOADON" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

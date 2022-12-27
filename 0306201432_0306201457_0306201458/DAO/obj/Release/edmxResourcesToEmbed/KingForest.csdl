@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KingForestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CT_HOADON">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MaHD" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Thue" Type="Double" />
+    <Property Name="Tong" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TrangThai" Type="Int32" />
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="HOADON" Relationship="KingForestModel.FK1_CT_HOADON" FromRole="CT_HOADON" ToRole="HOADON" />
+    <NavigationProperty Name="SANPHAM" Relationship="KingForestModel.FK2_CT_HOADON" FromRole="CT_HOADON" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MaNV" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgayLapHD" Type="DateTime" Precision="3" />
+    <Property Name="Tong" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="NHANVIEN" Relationship="Self.FK1_HOADON" FromRole="HOADON" ToRole="NHANVIEN" />
+    <NavigationProperty Name="CT_HOADON" Relationship="KingForestModel.FK1_CT_HOADON" FromRole="HOADON" ToRole="CT_HOADON" />
+  </EntityType>
+  <EntityType Name="KHUYENMAI">
+    <Key>
+      <PropertyRef Name="MaKM" />
+    </Key>
+    <Property Name="MaKM" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="NgayBD" Type="DateTime" Precision="3" />
+    <Property Name="NgayKT" Type="DateTime" Precision="3" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="GiaGiam" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TrangThai" Type="Int32" />
+  </EntityType>
+  <EntityType Name="LOAISANPHAM">
+    <Key>
+      <PropertyRef Name="MaLoaiSP" />
+    </Key>
+    <Property Name="MaLoaiSP" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenLoaiSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="SANPHAMs" Relationship="Self.FK1_SANPHAM" FromRole="LOAISANPHAM" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HoTenLotNV" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="TenNV" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Phai" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="AnhThe" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="ChucVu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="HOADONs" Relationship="Self.FK1_HOADON" FromRole="NHANVIEN" ToRole="HOADON" />
+    <NavigationProperty Name="TAIKHOAN" Relationship="Self.FK1_TAIKHOAN" FromRole="NHANVIEN" ToRole="TAIKHOAN" />
+    <Property Name="CCCD" Type="String" FixedLength="true" MaxLength="12" Unicode="false" />
+    <Property Name="SDT" Type="String" FixedLength="true" MaxLength="10" Unicode="false" />
+  </EntityType>
+  <EntityType Name="SANPHAM">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="MaLoaiSP" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="DeBanh" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="KichCo" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="MoTa" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="AnhSP" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="DonGia" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="LOAISANPHAM" Relationship="Self.FK1_SANPHAM" FromRole="SANPHAM" ToRole="LOAISANPHAM" />
+    <NavigationProperty Name="CT_HOADON" Relationship="KingForestModel.FK2_CT_HOADON" FromRole="SANPHAM" ToRole="CT_HOADON" />
+  </EntityType>
+  <EntityType Name="TAIKHOAN">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TK" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="MK" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="Quyen" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="TrangThai" Type="Int32" />
+    <NavigationProperty Name="NHANVIEN" Relationship="Self.FK1_TAIKHOAN" FromRole="TAIKHOAN" ToRole="NHANVIEN" />
+  </EntityType>
+  <Association Name="FK1_HOADON">
+    <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="0..1" />
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHANVIEN">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK1_SANPHAM">
+    <End Role="LOAISANPHAM" Type="Self.LOAISANPHAM" Multiplicity="0..1" />
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAISANPHAM">
+        <PropertyRef Name="MaLoaiSP" />
+      </Principal>
+      <Dependent Role="SANPHAM">
+        <PropertyRef Name="MaLoaiSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK1_TAIKHOAN">
+    <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="1" />
+    <End Role="TAIKHOAN" Type="Self.TAIKHOAN" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="NHANVIEN">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="TAIKHOAN">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KingForestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CT_HOADON" EntityType="Self.CT_HOADON" />
+    <EntitySet Name="HOADONs" EntityType="Self.HOADON" />
+    <EntitySet Name="KHUYENMAIs" EntityType="Self.KHUYENMAI" />
+    <EntitySet Name="LOAISANPHAMs" EntityType="Self.LOAISANPHAM" />
+    <EntitySet Name="NHANVIENs" EntityType="Self.NHANVIEN" />
+    <EntitySet Name="SANPHAMs" EntityType="Self.SANPHAM" />
+    <EntitySet Name="TAIKHOANs" EntityType="Self.TAIKHOAN" />
+    <AssociationSet Name="FK1_HOADON" Association="Self.FK1_HOADON">
+      <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK1_SANPHAM" Association="Self.FK1_SANPHAM">
+      <End Role="LOAISANPHAM" EntitySet="LOAISANPHAMs" />
+      <End Role="SANPHAM" EntitySet="SANPHAMs" />
+    </AssociationSet>
+    <AssociationSet Name="FK1_TAIKHOAN" Association="Self.FK1_TAIKHOAN">
+      <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+      <End Role="TAIKHOAN" EntitySet="TAIKHOANs" />
+    </AssociationSet>
+    <AssociationSet Name="FK1_CT_HOADON" Association="KingForestModel.FK1_CT_HOADON">
+      <End Role="HOADON" EntitySet="HOADONs" />
+      <End Role="CT_HOADON" EntitySet="CT_HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK2_CT_HOADON" Association="KingForestModel.FK2_CT_HOADON">
+      <End Role="SANPHAM" EntitySet="SANPHAMs" />
+      <End Role="CT_HOADON" EntitySet="CT_HOADON" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK1_CT_HOADON">
+    <End Type="KingForestModel.HOADON" Role="HOADON" Multiplicity="1" />
+    <End Type="KingForestModel.CT_HOADON" Role="CT_HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="CT_HOADON">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK2_CT_HOADON">
+    <End Type="KingForestModel.SANPHAM" Role="SANPHAM" Multiplicity="1" />
+    <End Type="KingForestModel.CT_HOADON" Role="CT_HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SANPHAM">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="CT_HOADON">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
